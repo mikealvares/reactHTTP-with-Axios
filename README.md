@@ -1,2 +1,7 @@
-# reactHTTP-with-Axios
-React demo to get all posts from the  https://jsonplaceholder.typicode.com/ and display it
+How to use the downloaded files
+
+1) Run "npm install" in the extracted folder
+2) Run "npm start" to view the project
+
+
+Implement http with axios
